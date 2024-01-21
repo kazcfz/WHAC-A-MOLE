@@ -20,6 +20,7 @@ Dive into the nostalgic fun of WHAC-A-MOLE with a modern twist! Our Ruby + Gosu 
 ## Prerequisite
 - [Ruby](https://rubyinstaller.org/downloads/)
 - [Gosu](https://www.libgosu.org/ruby.html) - Run `gem install gosu` in CMD/Powershell
+<br><br>
 
 ## Getting Started
 1. Download [source code](https://github.com/kazcfz/WHAC-A-MOLE/releases)
