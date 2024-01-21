@@ -4,7 +4,6 @@
 <p align="center">
     <img src="https://i.imgur.com/8mhaVjK.png" alt="WHAC-A-MOLE" width="850" height="130">
 </p>
-<br><br>
 
 # WHAC-A-MOLE
 Dive into the nostalgic fun of WHAC-A-MOLE with a modern twist! Our Ruby + Gosu Whac-A-Mole game brings the classic arcade experience to your fingertips. Challenge your reflexes as you smash those mischievous moles within a thrilling 30-second round.
