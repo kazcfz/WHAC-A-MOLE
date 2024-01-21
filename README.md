@@ -26,3 +26,9 @@ Dive into the nostalgic fun of WHAC-A-MOLE with a modern twist! Our Ruby + Gosu 
 1. Download [source code](https://github.com/kazcfz/WHAC-A-MOLE/releases)
 2. Extract
 3. Run WHAC-A-MOLE.rb
+<br><br>
+
+## Screenshot Preview
+![](https://i.imgur.com/UMZzOk1.png)
+![](https://i.imgur.com/ddLpXUs.png)
+![](https://i.imgur.com/x2Olago.png)
