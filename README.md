@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/qNyx67r.png" alt="Mole" width="110" height="125">
 </p>
 <p align="center">
-    <img src="https://i.imgur.com/8mhaVjK.png" alt="WHAC-A-MOLE" width="850" height="130">
+    <img src="https://i.imgur.com/8mhaVjK.png" alt="WHAC-A-MOLE" width="850" height="125">
 </p>
 
 # WHAC-A-MOLE
