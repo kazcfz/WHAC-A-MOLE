@@ -6,7 +6,7 @@
 </p>
 
 # WHAC-A-MOLE
-Dive into the nostalgic fun of WHAC-A-MOLE with a modern twist! Our Ruby + Gosu Whac-A-Mole game brings the classic arcade experience to your fingertips. Challenge your reflexes as you smash those mischievous moles within a thrilling 30-second round.
+Dive into the nostalgic fun of WHAC-A-MOLE with a modern twist! The Ruby + Gosu Whac-A-Mole game brings the classic arcade experience to your fingertips. Challenge your reflexes as you smash those mischievous moles within a thrilling 30-second round.
 <br><br>
 
 ## Features
