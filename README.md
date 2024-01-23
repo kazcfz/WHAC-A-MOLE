@@ -10,11 +10,11 @@ Dive into the nostalgic fun of WHAC-A-MOLE with a modern twist! The Ruby + Gosu 
 <br><br>
 
 ## Features
-- Simple and addictive gameplay: Whac those moles as they pop up
-- 30-second rounds: Quick, intense, and perfect for a gaming break
-- Score saving: Keep track of your high scores and compete with friends
-- Score viewing: Review your progress and strive for mole-whacking mastery
-- Original handmade graphics
+- **Intuitive Controls**: Use your mouse to swiftly whack the moles as they appear, testing your reflexes and hand-eye coordination.
+- **Simple and addictive gameplay**: Whac those moles as they pop up
+- **30-second rounds**: Quick, intense, and perfect for a gaming break
+- **High Score System**: Keep track of your high scores and compete with friends
+- **Original handmade graphics**
 <br><br>
 
 ## Prerequisite
