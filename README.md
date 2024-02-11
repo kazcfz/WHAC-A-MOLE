@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://i.imgur.com/qNyx67r.png" alt="Mole" width="110" height="125">
+    <img src="https://i.imgur.com/qNyx67r.png" alt="Mole" width="15%" height="15%">
 </p>
 <p align="center">
-    <img src="https://i.imgur.com/8mhaVjK.png" alt="WHAC-A-MOLE" width="850" height="125">
+    <img src="https://i.imgur.com/8mhaVjK.png" alt="WHAC-A-MOLE" width="80%" height="80%">
 </p>
 
 # WHAC-A-MOLE
